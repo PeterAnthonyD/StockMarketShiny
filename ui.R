@@ -12,7 +12,6 @@ library(shiny)
 library(quantmod)
 
 # Source helpers ----
-setwd("~/Documents/Rshiny/StockMarket-app/stockmarket")
 source("helpers-2.R")
 
 # User interface ----
